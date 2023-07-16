@@ -1,18 +1,21 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## Hello, I'm [Nandan]!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+![Profile Picture](/path/to/your/profile-picture.jpg)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I am a high schooler interested in physics. 
 
+### Background
 
-[jekyll-organization]: https://github.com/jekyll
+### Contact
+
+Include your contact information or links to your social media profiles, such as LinkedIn, GitHub, or Twitter. This allows visitors to reach out to you or connect with you on other platforms.
+
+---
+
+Thank you for visiting my website! I look forward to connecting with you and discussing how we can work together or collaborate on exciting projects.
