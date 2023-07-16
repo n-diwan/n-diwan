@@ -17,6 +17,10 @@ plugins:
   - jekyll-seo-tag
 
 # Theme-specific settings
+# MathJax configuration
+mathjax:
+  enable: true
+  output: "tex-chtml"
 
 minima:
   # Minima date format.
